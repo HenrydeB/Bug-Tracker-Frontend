@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Bug-Tracker-Frontend/static/css/main.a5b1deb5.chunk.css",
+    "main.js": "/Bug-Tracker-Frontend/static/js/main.d8dff8b8.chunk.js",
+    "main.js.map": "/Bug-Tracker-Frontend/static/js/main.d8dff8b8.chunk.js.map",
+    "runtime-main.js": "/Bug-Tracker-Frontend/static/js/runtime-main.93cf48a0.js",
+    "runtime-main.js.map": "/Bug-Tracker-Frontend/static/js/runtime-main.93cf48a0.js.map",
+    "static/js/2.6a0282bc.chunk.js": "/Bug-Tracker-Frontend/static/js/2.6a0282bc.chunk.js",
+    "static/js/2.6a0282bc.chunk.js.map": "/Bug-Tracker-Frontend/static/js/2.6a0282bc.chunk.js.map",
+    "index.html": "/Bug-Tracker-Frontend/index.html",
+    "static/css/main.a5b1deb5.chunk.css.map": "/Bug-Tracker-Frontend/static/css/main.a5b1deb5.chunk.css.map",
+    "static/js/2.6a0282bc.chunk.js.LICENSE.txt": "/Bug-Tracker-Frontend/static/js/2.6a0282bc.chunk.js.LICENSE.txt",
+    "static/media/login.css": "/Bug-Tracker-Frontend/static/media/BGimage.30ec4417.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93cf48a0.js",
+    "static/js/2.6a0282bc.chunk.js",
+    "static/css/main.a5b1deb5.chunk.css",
+    "static/js/main.d8dff8b8.chunk.js"
+  ]
+}
