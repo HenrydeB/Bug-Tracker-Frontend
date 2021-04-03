@@ -1,4 +1,4 @@
-# Welcome to the Smart-Brain facial recgonition app!
+# This is my Bug-Tracker in progress:
 
 ## Table of contents
 * [General info](#general-info)
