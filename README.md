@@ -12,14 +12,14 @@ This is the beginnings to an issue tracker program that I'd like to use myself i
 address in the near future (04/03/2021) that include the coloring, navbar functionality, and the structure.
 Here is a brief synopsis of the functionality: 
 
-* User logs in using their username and password
+* User logs in using their username and password. ![login](https://user-images.githubusercontent.com/69326962/113483445-0c134b00-9469-11eb-9ed6-41b7873e6474.png)
 
-* From the Home PageUser can navigate to the Dashboard, view current bugs, or create new bugs 8d8ea000-92e6-11eb-83bf-3ee2cd7c6b86.png)
-* In the Dashboard the user can take a look at the numer of bugs there are and their level of severity. 
-* Under View Bugs, the user can see what current bugs need attention.
-* If they click on a bug, they can see a dashboard of information concerning the bug in question.
-* The user can then make edits to said bug.
-* Under Create Bug, the admin will be able to create a new bug and assign it to a member of their team.
+* From the Home PageUser can navigate to the Dashboard, view current bugs, or create new bugs. ![home](https://user-images.githubusercontent.com/69326962/113483471-2c430a00-9469-11eb-83b3-7f8c3a8cc18c.png)
+* In the Dashboard the user can take a look at the number of bugs there are and their level of severity. ![dashboard](https://user-images.githubusercontent.com/69326962/113483487-4ed52300-9469-11eb-829a-570f37791618.png)
+* Under View Bugs, the user can see what current bugs need attention. ![view_bugs](https://user-images.githubusercontent.com/69326962/113483692-5ea13700-946a-11eb-9883-b0a49019e099.png)
+* If they click on a bug, they can see a dashboard of information concerning the bug in question. ![bug-tracker](https://user-images.githubusercontent.com/69326962/113483621-05d19e80-946a-11eb-8d6b-e812775716ba.png)
+* The user can then make edits to said bug. ![edit](https://user-images.githubusercontent.com/69326962/113483600-eaff2a00-9469-11eb-9c98-710e1d280f64.png)
+* Under Create Bug, the admin will be able to create a new bug and assign it to a member of their team. ![create](https://user-images.githubusercontent.com/69326962/113483559-a83d5200-9469-11eb-99e7-99414bbf8192.png)
 
 	
 ## Technologies
